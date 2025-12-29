@@ -680,7 +680,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Basit Ahmad Ganie**
 
 - GitHub: [@basitganie](https://github.com/basitganie/)
-- Email: basitahmed1412.com
+- Email: basitahmed1412@gmail.com
 
 ## 🙏 Acknowledgments
 
