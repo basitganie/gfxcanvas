@@ -137,3 +137,4 @@ Thumbs.db
 frames/
 *.gif
 test_*.py
+.api_token
