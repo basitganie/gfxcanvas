@@ -1,6 +1,6 @@
 # gfxcanvas
 
-**Advanced Python Graphics and Game Engine**
+**Simple Python Graphics and Game Engine**
 
 [![PyPI version](https://badge.fury.io/py/gfxcanvas.svg)](https://badge.fury.io/py/gfxcanvas)
 [![Python Version](https://img.shields.io/pypi/pyversions/gfxcanvas.svg)](https://pypi.org/project/gfxcanvas/)
